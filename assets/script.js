@@ -7,7 +7,7 @@ var questions = [
     "Who played the first live action Spider-Man?"];
 var options = [
     [3, "Tony Stark", "Steve Rogers", "Peter Parker", "Peter Quill"],
-    [3, "Thanosr", "Hulk", "Captain America", "Loki"],
+    [3, "Thanos", "Hulk", "Captain America", "Loki"],
     [2, "3", "6", "5", "2"],
     [1, "Neurosurgeon", "Orthopedic Surgeon", "Cardiac Surgeon", "Eye Surgeon"],
     [4, "Bucky", "Bruce Banner", "Thor", "Sam"],
