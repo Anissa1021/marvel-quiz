@@ -23,6 +23,7 @@ WHEN the game is over
 THEN I can save my initials and my score
 ```
 ## Deployed Link
+https://anissa1021.github.io/marvel-quiz/
 
 ## Screenshots
 ### Start Screen
